@@ -1,8 +1,29 @@
 # React + Vite
+# Voice Assistant 🤖🎙️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart and interactive **Voice Assistant** built using **React.js** and Web Speech API. This project enables users to give voice commands and receive real-time responses.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎤 **Speech Recognition** – Converts voice commands into text.
+- 🔊 **Text-to-Speech** – Reads out responses using a natural voice.
+- 📝 **Real-time Processing** – Handles commands instantly.
+- 🎨 **User-friendly UI** – Simple and intuitive interface.
+- 🛠️ **Custom Commands** – Easily extendable for personalized interactions.
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework
+- **Web Speech API** – For voice recognition and synthesis
+- **JavaScript (ES6+)** – Logic and functionality
+- **CSS (Tailwind/Styled Components)** – Styling
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```sh
+   https://github.com/rajgupta94/Voice-Assistant/edit/main/README.md
+
+* Install dependencies : npm install
+* Start the development server : npm start
+
